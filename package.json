@@ -1,7 +1,7 @@
 {
   "name": "rml-suck",
   "version": "0.1.0",
-  "homepage": "https://mylhassanedeveloper.github.io/my-interests/",
+  "homepage": "https://mylhassanedeveloper.github.io/my_interests/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
